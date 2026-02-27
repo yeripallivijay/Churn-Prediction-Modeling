@@ -61,7 +61,7 @@ This project includes:
 4. Run the prediction script:
 
    ```bash
-   python app.py
+   streamlit run app.py
    ```
 
 ---
