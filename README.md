@@ -1,6 +1,3 @@
-
-**Churn-Prediction-Modeling**
-
 ---
 
 # Churn Prediction Modeling
